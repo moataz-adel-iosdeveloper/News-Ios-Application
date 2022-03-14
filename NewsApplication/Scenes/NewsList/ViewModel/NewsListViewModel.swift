@@ -10,11 +10,11 @@ import UIKit
 
 class NewsListViewModel {
     
-    private let apiService : ArticlesNetwrok!
+    private let apiService : ArticlesNetwrokProtocol
     
     var articles : [ArticleModel] = [ArticleModel]()
     
-    private var cellViewModels: [NewsListCellViewModel] = [NewsListCellViewModel]() {
+    var cellViewModels: [NewsListCellViewModel] = [NewsListCellViewModel]() {
         didSet {
             self.reloadTableViewClosure?()
         }
@@ -42,12 +42,12 @@ class NewsListViewModel {
     var showAlertClosure: (()->())?
     var updateLoadingStatus: (()->())?
 
-    init() {
-        self.apiService = ArticlesNetwrok()
+    init(API : ArticlesNetwrokProtocol = ArticlesNetwrok()) {
+        self.apiService = API
     }
     func initFetch() {
         self.isLoading = true
-        apiService.fetchPopularArticles(period: 7, responseClass: ArticlesResponse.self) { [weak self] (results) in
+        apiService.fetchPopularArticles(period: 7) { [weak self] (results) in
             self?.isLoading = false
             switch results {
             case .success(let data):
@@ -72,7 +72,7 @@ class NewsListViewModel {
         
     }
     
-    private func processFetchedArticles(articles: [ArticleModel] ) {
+    func processFetchedArticles(articles: [ArticleModel] ) {
         self.articles = articles
         var cellViewModels = [NewsListCellViewModel]()
         for article in articles {

@@ -18,39 +18,47 @@ class ArticlesNetwrokTests: XCTestCase {
     }
 
     func testFetchPopularArticles() {
-        let expectation = XCTestExpectation(description: "Get Data Done Succeed")
+        
+        // Given A api service
+        let sut = self.sut!
+        // When fetch top stories
+        let expectation = XCTestExpectation(description: "callback")
         var errorResponse : Error?
         var articlesResponse : ArticlesResponse?
         
-        sut.fetchPopularArticles(period: 7, responseClass: ArticlesResponse.self) { (result) in
+        sut.fetchPopularArticles(period: 7) { (result) in
+            expectation.fulfill()
             switch result {
             case .success(let data):
                 articlesResponse = data
             case .failure(let error):
                 errorResponse = error
             }
-            expectation.fulfill()
         }
-        wait(for: [expectation], timeout: 5)
+        wait(for: [expectation], timeout: 4)
         XCTAssertNil(errorResponse)
         XCTAssertNotNil(articlesResponse)
     }
     
     func testFetchPopularArticles_BackEndNot200() {
-        let expectation = XCTestExpectation(description: "Get Data Done Succeed")
+        
+        // Given A api service
+        let sut = self.sut!
+        // When fetch top stories
+        let expectation = XCTestExpectation(description: "callback")
         var errorResponse : Error?
         var articlesResponse : ArticlesResponse?
 
-        sut.fetchPopularArticles(period: 15, responseClass: ArticlesResponse.self) { (result) in
+        sut.fetchPopularArticles(period: 15) { (result) in
+            expectation.fulfill()
             switch result {
             case .success(let data):
                 articlesResponse = data
             case .failure(let error):
                 errorResponse = error
             }
-            expectation.fulfill()
         }
-        wait(for: [expectation], timeout: 5)
+        wait(for: [expectation], timeout: 3)
         XCTAssertNotNil(errorResponse)
         XCTAssertNil(articlesResponse)
         XCTAssertNotEqual(errorResponse?.localizedDescription, "")

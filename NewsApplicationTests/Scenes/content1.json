@@ -1,0 +1,1261 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2022 The New York Times Company.  All Rights Reserved.",
+    "num_results": 20,
+    "results": [
+        {
+            "uri": "nyt://article/b0133310-0ebd-59c1-8579-f9a3d7ffd3e2",
+            "url": "https://www.nytimes.com/2022/03/06/world/europe/ukraine-irpin-civilian-death.html",
+            "id": 100000008241803,
+            "asset_id": 100000008241803,
+            "source": "New York Times",
+            "published_date": "2022-03-06",
+            "updated": "2022-03-10 17:14:59",
+            "section": "World",
+            "subsection": "Europe",
+            "nytdsection": "world",
+            "adx_keywords": "Russian Invasion of Ukraine (2022);Civilian Casualties;Irpin (Ukraine);Russia;Kyiv (Ukraine);Ukraine",
+            "column": null,
+            "byline": "By Lynsey Addario",
+            "type": "Article",
+            "title": "Russian forces fire on evacuees, leaving 4 people dead outside Kyiv.",
+            "abstract": "The attack in Irpin, west of the capital, suggested either direct targeting of evacuees or disregard for the risk of civilian casualties.",
+            "des_facet": [
+                "Russian Invasion of Ukraine (2022)",
+                "Civilian Casualties"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [
+                "Irpin (Ukraine)",
+                "Russia",
+                "Kyiv (Ukraine)",
+                "Ukraine"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Lynsey Addario for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2022/03/06/world/06ukraine-irpin-breakout/06ukraine-irpin-breakout-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2022/03/06/world/06ukraine-irpin-breakout/06ukraine-irpin-breakout-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2022/03/06/world/06ukraine-irpin-breakout/06ukraine-irpin-breakout-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/7ab71994-295d-504f-b062-9d59305b746f",
+            "url": "https://www.nytimes.com/2022/03/05/sports/basketball/russia-brittney-griner.html",
+            "id": 100000008241147,
+            "asset_id": 100000008241147,
+            "source": "New York Times",
+            "published_date": "2022-03-05",
+            "updated": "2022-03-08 18:52:12",
+            "section": "Sports",
+            "subsection": "N.B.A.",
+            "nytdsection": "sports",
+            "adx_keywords": "Basketball;Airport Security;Hashish;Drug Abuse and Traffic;Griner, Brittney;Women's National Basketball Assn;Phoenix Mercury;Russia",
+            "column": null,
+            "byline": "By Michael Crowley and Jonathan Abrams",
+            "type": "Article",
+            "title": "Brittney Griner, Star W.N.B.A. Center, Is Detained in Russia",
+            "abstract": "Russian customs officials said a U.S. basketball player had vape cartridges containing hashish oil in her luggage. A Russian news agency identified the player as Griner.",
+            "des_facet": [
+                "Basketball",
+                "Airport Security",
+                "Hashish",
+                "Drug Abuse and Traffic"
+            ],
+            "org_facet": [
+                "Women's National Basketball Assn",
+                "Phoenix Mercury"
+            ],
+            "per_facet": [
+                "Griner, Brittney"
+            ],
+            "geo_facet": [
+                "Russia"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A Russian news agency identified Phoenix Mercury center Brittney Griner as the American basketball player detained in Russia.",
+                    "copyright": "Paul Beaty/Associated Press",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2022/03/06/sports/05russia-griner1/05russia-griner1-thumbStandard-v2.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2022/03/06/sports/05russia-griner1/05russia-griner1-mediumThreeByTwo210-v2.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2022/03/06/sports/05russia-griner1/05russia-griner1-mediumThreeByTwo440-v2.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/75c79473-03b5-502a-8d2a-346e6676aa1c",
+            "url": "https://www.nytimes.com/2022/03/09/climate/endurance-wreck-found-shackleton.html",
+            "id": 100000008245158,
+            "asset_id": 100000008245158,
+            "source": "New York Times",
+            "published_date": "2022-03-09",
+            "updated": "2022-03-11 18:00:27",
+            "section": "Climate",
+            "subsection": "",
+            "nytdsection": "climate",
+            "adx_keywords": "Exploration and Explorers;Shipwrecks (Historic);Shackleton, Ernest;Antarctic Regions;Weddell Sea",
+            "column": null,
+            "byline": "By Henry Fountain",
+            "type": "Article",
+            "title": "At the Bottom of an Icy Sea, One of History’s Great Wrecks Is Found",
+            "abstract": "Explorers and researchers, battling freezing temperatures, have located Endurance, Ernest Shackleton’s ship that sank in the Antarctic in 1915.",
+            "des_facet": [
+                "Exploration and Explorers",
+                "Shipwrecks (Historic)"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Shackleton, Ernest"
+            ],
+            "geo_facet": [
+                "Antarctic Regions",
+                "Weddell Sea"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A view of the wreck of Endurance from a submersible.",
+                    "copyright": "Falklands Maritime Heritage Trust ",
+                    "approved_for_syndication": 0,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2022/03/09/world/09cli-shackleton-handout2/09cli-shackleton-handout2-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2022/03/09/world/09cli-shackleton-handout2/09cli-shackleton-handout2-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2022/03/09/world/09cli-shackleton-handout2/09cli-shackleton-handout2-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/8cc5160c-58dc-5f8b-a2f6-967952d93b5a",
+            "url": "https://www.nytimes.com/2022/03/07/world/asia/putin-ukraine-china-xi.html",
+            "id": 100000008237137,
+            "asset_id": 100000008237137,
+            "source": "New York Times",
+            "published_date": "2022-03-07",
+            "updated": "2022-03-08 17:30:42",
+            "section": "World",
+            "subsection": "Asia Pacific",
+            "nytdsection": "world",
+            "adx_keywords": "Russian Invasion of Ukraine (2022);International Relations;United States International Relations;Putin, Vladimir V;Xi Jinping;Russia;China;Ukraine",
+            "column": null,
+            "byline": "By Chris Buckley and Steven Lee Myers",
+            "type": "Article",
+            "title": "‘No Wavering’: After Turning to Putin, Xi Faces Hard Wartime Choices for China",
+            "abstract": "Beijing aligned itself with Putin as Russia prepared to invade Ukraine. Now its efforts to edge away are constrained by leadership politics.",
+            "des_facet": [
+                "Russian Invasion of Ukraine (2022)",
+                "International Relations",
+                "United States International Relations"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Putin, Vladimir V",
+                "Xi Jinping"
+            ],
+            "geo_facet": [
+                "Russia",
+                "China",
+                "Ukraine"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "President Vladimir V. Putin of Russia with China’s leader, Xi Jinping, in Beijing on Feb. 4. In a joint statement, the leaders had vowed that their countries’ friendship had “no limits.”",
+                    "copyright": "Li Tao/Xinhua, via Associated Press",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2022/03/04/world/00CHINA-UKRAINE-02/00CHINA-UKRAINE-02-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2022/03/04/world/00CHINA-UKRAINE-02/merlin_201323079_070d513e-8678-4dc0-8e72-c82b8c1d2185-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2022/03/04/world/00CHINA-UKRAINE-02/merlin_201323079_070d513e-8678-4dc0-8e72-c82b8c1d2185-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/f7ac21e5-1d71-5210-997b-65c0ab8c3f88",
+            "url": "https://www.nytimes.com/2022/03/09/world/europe/ukraine-family-perebyinis-kyiv.html",
+            "id": 100000008246386,
+            "asset_id": 100000008246386,
+            "source": "New York Times",
+            "published_date": "2022-03-09",
+            "updated": "2022-03-11 01:17:04",
+            "section": "World",
+            "subsection": "Europe",
+            "nytdsection": "world",
+            "adx_keywords": "Russian Invasion of Ukraine (2022);Defense and Military Forces;Civilian Casualties;Evacuations and Evacuees;Ukraine;Russia;Irpin (Ukraine);Kyiv (Ukraine)",
+            "column": null,
+            "byline": "By Andrew E. Kramer",
+            "type": "Article",
+            "title": "They Died by a Bridge in Ukraine. This Is Their Story.",
+            "abstract": "Tetiana Perebyinis and her two children were killed trying to dash to safety, a moment captured by our photographer. Her husband describes their lives, and their final hours.",
+            "des_facet": [
+                "Russian Invasion of Ukraine (2022)",
+                "Defense and Military Forces",
+                "Civilian Casualties",
+                "Evacuations and Evacuees"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [
+                "Ukraine",
+                "Russia",
+                "Irpin (Ukraine)",
+                "Kyiv (Ukraine)"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Serhiy Perebyinis lost his wife, Tetiana, and both of their children to Russian mortar shelling as they tried to flee Irpin, near Ukraine’s capital, Kyiv.",
+                    "copyright": "Lynsey Addario for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2022/03/09/multimedia/09ukraine-family-topart/09ukraine-family-topart-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2022/03/09/multimedia/09ukraine-family-topart/09ukraine-family-topart-mediumThreeByTwo210-v2.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2022/03/09/multimedia/09ukraine-family-topart/09ukraine-family-topart-mediumThreeByTwo440-v2.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/92b04a69-7aba-50fa-a609-93b6ce94cfb9",
+            "url": "https://www.nytimes.com/2022/03/07/opinion/campus-speech-cancel-culture.html",
+            "id": 100000008210334,
+            "asset_id": 100000008210334,
+            "source": "New York Times",
+            "published_date": "2022-03-07",
+            "updated": "2022-03-08 23:15:51",
+            "section": "Opinion",
+            "subsection": "",
+            "nytdsection": "opinion",
+            "adx_keywords": "Colleges and Universities;Freedom of Speech and Expression;Cancel Culture;Censorship;University of Virginia",
+            "column": null,
+            "byline": "By Emma Camp",
+            "type": "Article",
+            "title": "I Came to College Eager to Debate. I Found Self-Censorship Instead.",
+            "abstract": "When we censor ourselves, our learning environments suffer.",
+            "des_facet": [
+                "Colleges and Universities",
+                "Freedom of Speech and Expression",
+                "Cancel Culture",
+                "Censorship"
+            ],
+            "org_facet": [
+                "University of Virginia"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Emma Camp on the campus of the University of Virginia.",
+                    "copyright": "Eze Amos for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2022/03/09/opinion/07Camp1/07Camp1-thumbStandard-v4.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2022/03/09/opinion/07Camp1/07Camp1-mediumThreeByTwo210-v4.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2022/03/09/opinion/07Camp1/07Camp1-mediumThreeByTwo440-v4.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/fa586529-e689-5deb-89e0-b037650ccd4c",
+            "url": "https://www.nytimes.com/2022/03/05/nyregion/trump-investigation-manhattan-da-alvin-bragg.html",
+            "id": 100000008235984,
+            "asset_id": 100000008235984,
+            "source": "New York Times",
+            "published_date": "2022-03-05",
+            "updated": "2022-03-06 16:51:52",
+            "section": "New York",
+            "subsection": "",
+            "nytdsection": "new york",
+            "adx_keywords": "Frauds and Swindling;District Attorneys;Legal Profession;United States Politics and Government;Trump, Donald J;Bragg, Alvin;Dunne, Carey R;Pomerantz, Mark F;Cohen, Michael D (1966- );James, Letitia;Vance, Cyrus R Jr;Weisselberg, Allen;Trump Organization;Manhattan (NYC)",
+            "column": null,
+            "byline": "By Ben Protess, William K. Rashbaum and Jonah E. Bromwich",
+            "type": "Article",
+            "title": "How the Manhattan D.A.’s Investigation Into Donald Trump Unraveled",
+            "abstract": "The criminal investigation into the former president crashed amid a disagreement about the merits of bringing a case. The debate pitted a new district attorney against two veteran prosecutors who had pursued a case against Mr. Trump for years.",
+            "des_facet": [
+                "Frauds and Swindling",
+                "District Attorneys",
+                "Legal Profession",
+                "United States Politics and Government"
+            ],
+            "org_facet": [
+                "Trump Organization"
+            ],
+            "per_facet": [
+                "Trump, Donald J",
+                "Bragg, Alvin",
+                "Dunne, Carey R",
+                "Pomerantz, Mark F",
+                "Cohen, Michael D (1966- )",
+                "James, Letitia",
+                "Vance, Cyrus R Jr",
+                "Weisselberg, Allen"
+            ],
+            "geo_facet": [
+                "Manhattan (NYC)"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Prosecutors in Manhattan have been investigating whether former President Donald J. Trump illegally inflated the value of his properties.",
+                    "copyright": "Scott McIntyre for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2022/03/03/nyregion/00trumpticktock01/00trumpticktock01-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2022/03/03/nyregion/00trumpticktock01/00trumpticktock01-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2022/03/03/nyregion/00trumpticktock01/00trumpticktock01-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/fc44d5ee-a12b-54f7-915b-702b7d7f09cb",
+            "url": "https://www.nytimes.com/2022/03/06/us/politics/us-ukraine-weapons.html",
+            "id": 100000008241440,
+            "asset_id": 100000008241440,
+            "source": "New York Times",
+            "published_date": "2022-03-06",
+            "updated": "2022-03-07 06:31:08",
+            "section": "U.S.",
+            "subsection": "Politics",
+            "nytdsection": "u.s.",
+            "adx_keywords": "Russian Invasion of Ukraine (2022);Defense and Military Forces;Cyberwarfare and Defense;Lobbying and Lobbyists;Military Aircraft;United States Defense and Military Forces;United States International Relations;Zelensky, Volodymyr;Biden, Joseph R Jr;Vajdich, Daniel P;Mac, Andrew;United States Cyber Command;Russia;Ukraine",
+            "column": null,
+            "byline": "By David E. Sanger, Eric Schmitt, Helene Cooper, Julian E. Barnes and Kenneth P. Vogel",
+            "type": "Article",
+            "title": "Arming Ukraine: 17,000 Anti-Tank Weapons in 6 Days and a Clandestine Cybercorps",
+            "abstract": "The United States has walked to the edge of direct conflict with Russia in an operation that is reminiscent of the Berlin airlift of 1948-49, but far more complex.",
+            "des_facet": [
+                "Russian Invasion of Ukraine (2022)",
+                "Defense and Military Forces",
+                "Cyberwarfare and Defense",
+                "Lobbying and Lobbyists",
+                "Military Aircraft",
+                "United States Defense and Military Forces",
+                "United States International Relations"
+            ],
+            "org_facet": [
+                "United States Cyber Command"
+            ],
+            "per_facet": [
+                "Zelensky, Volodymyr",
+                "Biden, Joseph R Jr",
+                "Vajdich, Daniel P",
+                "Mac, Andrew"
+            ],
+            "geo_facet": [
+                "Russia",
+                "Ukraine"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "French military equipment is unloaded from a freight airplane at Mihail Kogalniceanu Air Base in Romania last Thursday.",
+                    "copyright": "Daniel Mihailescu/Agence France-Presse — Getty Images",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2022/03/06/multimedia/06dc-weapons-top/06dc-weapons-top-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2022/03/06/multimedia/06dc-weapons-top/06dc-weapons-top-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2022/03/06/multimedia/06dc-weapons-top/06dc-weapons-top-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/72252611-39cd-5567-9930-7b516af36cc1",
+            "url": "https://www.nytimes.com/2022/03/09/health/heart-transplant-pig-bennett.html",
+            "id": 100000008245640,
+            "asset_id": 100000008245640,
+            "source": "New York Times",
+            "published_date": "2022-03-09",
+            "updated": "2022-03-10 12:32:26",
+            "section": "Health",
+            "subsection": "",
+            "nytdsection": "health",
+            "adx_keywords": "Transplants;Heart;Pigs;Surgery and Surgeons;Kidneys;Genetic Engineering;your-feed-science;University of Maryland Medical Center",
+            "column": null,
+            "byline": "By Roni Caryn Rabin",
+            "type": "Article",
+            "title": "Patient in Groundbreaking Heart Transplant Dies",
+            "abstract": "David Bennett Sr. had received a heart from a genetically modified pig, a procedure that may yet offer hope to millions of Americans needing transplants.",
+            "des_facet": [
+                "Transplants",
+                "Heart",
+                "Pigs",
+                "Surgery and Surgeons",
+                "Kidneys",
+                "Genetic Engineering",
+                "your-feed-science"
+            ],
+            "org_facet": [
+                "University of Maryland Medical Center"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A genetically modified pig heart was transplanted into 57-year-old David Bennett at the University of Maryland Medical Center in Baltimore in January.",
+                    "copyright": "University of Maryland School of Medicine, via EPA, via Shutterstock",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2022/03/08/science/08pig-heart1/08pig-heart1-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2022/03/08/science/08pig-heart1/08pig-heart1-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2022/03/08/science/08pig-heart1/08pig-heart1-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/e136e334-b551-5e8b-a83b-c6016e836856",
+            "url": "https://www.nytimes.com/2022/03/05/us/american-veterans-volunteer-ukraine-russia.html",
+            "id": 100000008238915,
+            "asset_id": 100000008238915,
+            "source": "New York Times",
+            "published_date": "2022-03-05",
+            "updated": "2022-03-07 11:24:37",
+            "section": "U.S.",
+            "subsection": "",
+            "nytdsection": "u.s.",
+            "adx_keywords": "Russian Invasion of Ukraine (2022);Veterans;United States Defense and Military Forces;Russia;Ukraine;United States",
+            "column": null,
+            "byline": "By Dave Philipps",
+            "type": "Article",
+            "title": "‘I Just Can’t Stand By’: American Veterans Join the Fight in Ukraine",
+            "abstract": "All across the country, small groups of military veterans are hungry for what they see as a righteous fight to defend freedom against an autocratic aggressor.",
+            "des_facet": [
+                "Russian Invasion of Ukraine (2022)",
+                "Veterans",
+                "United States Defense and Military Forces"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [
+                "Russia",
+                "Ukraine",
+                "United States"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Hector, a former Marine, boarded a flight to Warsaw on Friday to help Ukraine in its fight against Russia. “Sanctions can help, but sanctions can’t help right now, and people need help right now,” he said.",
+                    "copyright": "Zack Wittman for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2022/03/05/us/05vetvolunteers-1/merlin_203244207_2282daad-04f4-46e4-9d73-30f006bc50bb-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2022/03/05/us/05vetvolunteers-1/merlin_203244207_2282daad-04f4-46e4-9d73-30f006bc50bb-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2022/03/05/us/05vetvolunteers-1/merlin_203244207_2282daad-04f4-46e4-9d73-30f006bc50bb-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/dda9acf1-8360-57af-a137-5adbd44e456a",
+            "url": "https://www.nytimes.com/2022/03/06/opinion/putin-ukraine-china.html",
+            "id": 100000008240702,
+            "asset_id": 100000008240702,
+            "source": "New York Times",
+            "published_date": "2022-03-06",
+            "updated": "2022-03-08 03:02:37",
+            "section": "Opinion",
+            "subsection": "",
+            "nytdsection": "opinion",
+            "adx_keywords": "Russian Invasion of Ukraine (2022);Economic Conditions and Trends;Putin, Vladimir V;Xi Jinping;China;Russia;Ukraine",
+            "column": null,
+            "byline": "By Thomas L. Friedman",
+            "type": "Article",
+            "title": "The Cancellation of Mother Russia Is Underway",
+            "abstract": "China is the one country that might have the power to stop Putin. ",
+            "des_facet": [
+                "Russian Invasion of Ukraine (2022)",
+                "Economic Conditions and Trends"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Putin, Vladimir V",
+                "Xi Jinping"
+            ],
+            "geo_facet": [
+                "China",
+                "Russia",
+                "Ukraine"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Pool photo by Alexei Nikolsky",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2022/03/07/opinion/07friedman-SWAP/07friedman-SWAP-thumbStandard-v2.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2022/03/07/opinion/07friedman-SWAP/07friedman-SWAP-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2022/03/07/opinion/07friedman-SWAP/07friedman-SWAP-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/36647ca7-69cf-5cb0-b150-4261c540ae8a",
+            "url": "https://www.nytimes.com/2022/03/09/movies/al-pacino-the-godfather.html",
+            "id": 100000008219703,
+            "asset_id": 100000008219703,
+            "source": "New York Times",
+            "published_date": "2022-03-09",
+            "updated": "2022-03-11 13:43:08",
+            "section": "Movies",
+            "subsection": "",
+            "nytdsection": "movies",
+            "adx_keywords": "Movies;Actors and Actresses;Content Type: Personal Profile;Pacino, Al;Coppola, Francis Ford",
+            "column": null,
+            "byline": "By Dave Itzkoff",
+            "type": "Article",
+            "title": "Al Pacino on ‘The Godfather’: ‘It’s Taken Me a Lifetime to Accept It and Move On’",
+            "abstract": "Fifty years later, the actor looks back on his breakthrough role: how he was cast, why he skipped the Oscars and what it all means to him now.",
+            "des_facet": [
+                "Movies",
+                "Actors and Actresses",
+                "Content Type: Personal Profile"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Pacino, Al",
+                "Coppola, Francis Ford"
+            ],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Al Pacino as Michael Corleone. He won the role over Paramount’s objections.",
+                    "copyright": "Paramount Pictures",
+                    "approved_for_syndication": 0,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2022/03/13/arts/13godfather-pacino1/13godfather-pacino1-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2022/03/13/arts/13godfather-pacino1/13godfather-pacino1-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2022/03/13/arts/13godfather-pacino1/13godfather-pacino1-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/2142272e-7a78-5881-9864-356dd5d45076",
+            "url": "https://www.nytimes.com/2022/03/03/dining/easy-recipes.html",
+            "id": 100000008231439,
+            "asset_id": 100000008231439,
+            "source": "New York Times",
+            "published_date": "2022-03-03",
+            "updated": "2022-03-03 14:26:00",
+            "section": "Food",
+            "subsection": "",
+            "nytdsection": "food",
+            "adx_keywords": "Recipes;Cooking and Cookbooks",
+            "column": null,
+            "byline": "By Margaux Laskey",
+            "type": "Article",
+            "title": "19 Extremely Easy Recipes for When You’re Burned Out",
+            "abstract": "Tired of … everything? These simple, delicious dishes won’t wear you out.",
+            "des_facet": [
+                "Recipes",
+                "Cooking and Cookbooks"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Julia Gartland for The New York Times. Food Stylist: Monica Pierini.",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2018/12/11/dining/02Burnout-Roundup-coconut-red-curry-with-tofu/mc-coconut-red-curry-with-tofu-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/12/11/dining/02Burnout-Roundup-coconut-red-curry-with-tofu/mc-coconut-red-curry-with-tofu-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/12/11/dining/02Burnout-Roundup-coconut-red-curry-with-tofu/mc-coconut-red-curry-with-tofu-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/1bd39425-cf6d-59a4-8b42-a21782d43162",
+            "url": "https://www.nytimes.com/2022/03/07/us/politics/russia-ukraine-military.html",
+            "id": 100000008242814,
+            "asset_id": 100000008242814,
+            "source": "New York Times",
+            "published_date": "2022-03-07",
+            "updated": "2022-03-08 21:23:58",
+            "section": "U.S.",
+            "subsection": "Politics",
+            "nytdsection": "u.s.",
+            "adx_keywords": "Russian Invasion of Ukraine (2022);Defense and Military Forces;Putin, Vladimir V;North Atlantic Treaty Organization;Ukraine;Russia",
+            "column": null,
+            "byline": "By Helene Cooper, Eric Schmitt and Julian E. Barnes",
+            "type": "Article",
+            "title": "As Russia’s Military Stumbles, Its Adversaries Take Note",
+            "abstract": "President Vladimir Putin could still reduce cities in Ukraine to rubble, officials say. But European countries say they are not as intimidated by Russian ground forces as they were in the past.",
+            "des_facet": [
+                "Russian Invasion of Ukraine (2022)",
+                "Defense and Military Forces"
+            ],
+            "org_facet": [
+                "North Atlantic Treaty Organization"
+            ],
+            "per_facet": [
+                "Putin, Vladimir V"
+            ],
+            "geo_facet": [
+                "Ukraine",
+                "Russia"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Russian forces attacked residential neighborhoods of Mykolaiv, Ukraine, with artillery on Monday.",
+                    "copyright": "Tyler Hicks/The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2022/03/07/us/politics/07dc-russia-military-2/merlin_203400414_cbc13b3e-b412-4a41-b9b9-46129c98cced-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2022/03/07/us/politics/07dc-russia-military-2/merlin_203400414_cbc13b3e-b412-4a41-b9b9-46129c98cced-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2022/03/07/us/politics/07dc-russia-military-2/merlin_203400414_cbc13b3e-b412-4a41-b9b9-46129c98cced-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/8e7e6b5e-d844-5088-8e65-385b33fb10dd",
+            "url": "https://www.nytimes.com/2022/03/07/health/covid-brain-changes.html",
+            "id": 100000008241348,
+            "asset_id": 100000008241348,
+            "source": "New York Times",
+            "published_date": "2022-03-07",
+            "updated": "2022-03-08 16:10:10",
+            "section": "Health",
+            "subsection": "",
+            "nytdsection": "health",
+            "adx_keywords": "Coronavirus (2019-nCoV);Research;Brain;Smell (Olfaction);Memory;your-feed-science;your-feed-healthcare;Nature (Journal)",
+            "column": null,
+            "byline": "By Pam Belluck",
+            "type": "Article",
+            "title": "Covid May Cause Changes in the Brain, New Study Finds",
+            "abstract": "Brain scans before and after infection showed more loss of gray matter and tissue damage, mostly in areas related to smell, in people who had Covid than in those who did not.",
+            "des_facet": [
+                "Coronavirus (2019-nCoV)",
+                "Research",
+                "Brain",
+                "Smell (Olfaction)",
+                "Memory",
+                "your-feed-science",
+                "your-feed-healthcare"
+            ],
+            "org_facet": [
+                "Nature (Journal)"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A digital model of a human brain showing the parts of the brain that lost the most gray matter in the 401 Covid-infected participants in the study, in red-yellow.",
+                    "copyright": " G. Douaud, Anderson Winkler and Saad Jbabdi, University of Oxford and NIH",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2022/03/07/science/07virus-brain1/07virus-brain1-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2022/03/07/science/07virus-brain1/07virus-brain1-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2022/03/07/science/07virus-brain1/07virus-brain1-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/887abced-35aa-50b6-98d3-3d6964774250",
+            "url": "https://www.nytimes.com/2022/03/09/us/politics/fact-check-republicans-biden-gas.html",
+            "id": 100000008246504,
+            "asset_id": 100000008246504,
+            "source": "New York Times",
+            "published_date": "2022-03-09",
+            "updated": "2022-03-10 09:02:20",
+            "section": "U.S.",
+            "subsection": "Politics",
+            "nytdsection": "u.s.",
+            "adx_keywords": "Presidential Election of 2020;Pipelines;Oil (Petroleum) and Gasoline;Prices (Fares, Fees and Rates);Trump, Donald J;Biden, Joseph R Jr;McConnell, Mitch;McCarthy, Kevin (1965- );Pence, Mike;Energy Information Administration;Organization of the Petroleum Exporting Countries;Republican Party;TC Energy Corp",
+            "column": null,
+            "byline": "By Linda Qiu",
+            "type": "Article",
+            "title": "Republicans Wrongly Blame Biden for Rising Gas Prices",
+            "abstract": "They have pointed to the Biden administration’s policies on the Keystone XL pipeline and certain oil and gas leases, which have had little impact on prices.",
+            "des_facet": [
+                "Presidential Election of 2020",
+                "Pipelines",
+                "Oil (Petroleum) and Gasoline",
+                "Prices (Fares, Fees and Rates)"
+            ],
+            "org_facet": [
+                "Energy Information Administration",
+                "Organization of the Petroleum Exporting Countries",
+                "Republican Party",
+                "TC Energy Corp"
+            ],
+            "per_facet": [
+                "Trump, Donald J",
+                "Biden, Joseph R Jr",
+                "McConnell, Mitch",
+                "McCarthy, Kevin (1965- )",
+                "Pence, Mike"
+            ],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The average gas price at U.S. pumps hit $4.17 on Tuesday.",
+                    "copyright": "Scott McIntyre for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2022/03/09/us/politics/09dc-factcheck-1/merlin_203187813_b0377dec-e0a0-4bd5-aa42-8487472469ab-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2022/03/09/us/politics/09dc-factcheck-1/merlin_203187813_b0377dec-e0a0-4bd5-aa42-8487472469ab-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2022/03/09/us/politics/09dc-factcheck-1/merlin_203187813_b0377dec-e0a0-4bd5-aa42-8487472469ab-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/e9ff7788-319f-560b-822d-ce9d9397dd55",
+            "url": "https://www.nytimes.com/2022/03/06/world/europe/ukraine-russia-families.html",
+            "id": 100000008241796,
+            "asset_id": 100000008241796,
+            "source": "New York Times",
+            "published_date": "2022-03-06",
+            "updated": "2022-03-08 08:30:47",
+            "section": "World",
+            "subsection": "Europe",
+            "nytdsection": "world",
+            "adx_keywords": "Russian Invasion of Ukraine (2022);Defense and Military Forces;Politics and Government;Censorship;Propaganda;Rumors and Misinformation;News and News Media;Zelensky, Volodymyr;Russia;Ukraine",
+            "column": null,
+            "byline": "By Valerie Hopkins",
+            "type": "Article",
+            "title": "Ukrainians Find That Relatives in Russia Don’t Believe It’s a War",
+            "abstract": "Many Ukrainians are encountering a confounding and frustrating backlash from family members in Russia who have bought into the official Kremlin messaging.",
+            "des_facet": [
+                "Russian Invasion of Ukraine (2022)",
+                "Defense and Military Forces",
+                "Politics and Government",
+                "Censorship",
+                "Propaganda",
+                "Rumors and Misinformation",
+                "News and News Media"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Zelensky, Volodymyr"
+            ],
+            "geo_facet": [
+                "Russia",
+                "Ukraine"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Photographing the debris of a building hit by missiles in Kyiv, Ukraine, last month.",
+                    "copyright": "Lynsey Addario for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2022/03/06/world/06ukraine-denial1/06ukraine-denial1-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2022/03/06/world/06ukraine-denial1/merlin_202846908_b00f4b6e-9b5a-41e2-a6f3-ff42f4b9025a-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2022/03/06/world/06ukraine-denial1/merlin_202846908_b00f4b6e-9b5a-41e2-a6f3-ff42f4b9025a-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/e0c68911-96c3-5f00-b91f-7bc2a40c7fde",
+            "url": "https://www.nytimes.com/2022/03/06/world/europe/ukrainian-family-killed-war.html",
+            "id": 100000008242029,
+            "asset_id": 100000008242029,
+            "source": "New York Times",
+            "published_date": "2022-03-06",
+            "updated": "2022-03-08 12:29:41",
+            "section": "World",
+            "subsection": "Europe",
+            "nytdsection": "world",
+            "adx_keywords": "Russian Invasion of Ukraine (2022);Civilian Casualties;Evacuations and Evacuees;Refugees and Displaced Persons;Ukraine;Kyiv (Ukraine);Russia;Irpin (Ukraine)",
+            "column": null,
+            "byline": "By Lynsey Addario and Andrew E. Kramer",
+            "type": "Article",
+            "title": "Ukrainian Family’s Dash for Safety Ends in Death",
+            "abstract": "Russian forces hit a bridge being used by civilians evacuating the fighting in Ukraine. Four people were killed.",
+            "des_facet": [
+                "Russian Invasion of Ukraine (2022)",
+                "Civilian Casualties",
+                "Evacuations and Evacuees",
+                "Refugees and Displaced Persons"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [
+                "Ukraine",
+                "Kyiv (Ukraine)",
+                "Russia",
+                "Irpin (Ukraine)"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A wounded man was placed on a stretcher after being shot on Sunday.",
+                    "copyright": "Lynsey Addario for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2022/03/06/world/06ukraine-kyiv2/06ukraine-kyiv2-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2022/03/06/world/06ukraine-kyiv2/06ukraine-kyiv2-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2022/03/06/world/06ukraine-kyiv2/06ukraine-kyiv2-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/714b72ae-85a2-5509-976e-2f730dd910f5",
+            "url": "https://www.nytimes.com/2022/03/08/world/europe/russia-superyacht-putin-oligarch.html",
+            "id": 100000008241995,
+            "asset_id": 100000008241995,
+            "source": "New York Times",
+            "published_date": "2022-03-08",
+            "updated": "2022-03-10 10:14:47",
+            "section": "World",
+            "subsection": "Europe",
+            "nytdsection": "world",
+            "adx_keywords": "Boats and Boating;Embargoes and Sanctions;Russian Invasion of Ukraine (2022);High Net Worth Individuals;Assets, Frozen;Putin, Vladimir V;Italy;Russia",
+            "column": null,
+            "byline": "By Michael Forsythe, Gaia Pianigiani and David D. Kirkpatrick",
+            "type": "Article",
+            "title": "A 459-Foot Mystery in a Tuscan Port: Is It a Russian’s Superyacht?",
+            "abstract": "As European authorities go after the luxury assets of oligarchs close to Vladimir Putin, a superyacht cloaked in secrecy has come under investigation.",
+            "des_facet": [
+                "Boats and Boating",
+                "Embargoes and Sanctions",
+                "Russian Invasion of Ukraine (2022)",
+                "High Net Worth Individuals",
+                "Assets, Frozen"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Putin, Vladimir V"
+            ],
+            "geo_facet": [
+                "Italy",
+                "Russia"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The owner of the Scheherazade, one of the world’s biggest and most expensive superyachts, has not been publicly identified. The Italian financial police are investigating.",
+                    "copyright": "Bulent Erbas",
+                    "approved_for_syndication": 0,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2022/03/07/multimedia/00yacht-Scheherazade-3/00yacht-Scheherazade-3-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2022/03/07/multimedia/00yacht-Scheherazade-3/00yacht-Scheherazade-3-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2022/03/07/multimedia/00yacht-Scheherazade-3/00yacht-Scheherazade-3-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/a6321b6d-7fec-54a4-9402-de2931611f82",
+            "url": "https://www.nytimes.com/2022/03/07/technology/russia-ukraine-internet-isolation.html",
+            "id": 100000008241171,
+            "asset_id": 100000008241171,
+            "source": "New York Times",
+            "published_date": "2022-03-07",
+            "updated": "2022-03-11 08:48:51",
+            "section": "Technology",
+            "subsection": "",
+            "nytdsection": "technology",
+            "adx_keywords": "Russian Invasion of Ukraine (2022);Computers and the Internet;Politics and Government;Censorship;Social Media;Video Recordings, Downloads and Streaming;Putin, Vladimir V;YouTube.com;Russia;Ukraine",
+            "column": null,
+            "byline": "By Adam Satariano and Valerie Hopkins",
+            "type": "Article",
+            "title": "Russia, Blocked From the Global Internet, Plunges Into Digital Isolation",
+            "abstract": "Russian authorities and multinational companies have erected a digital barricade between the country and the West, erasing the last remnants of independent information online.",
+            "des_facet": [
+                "Russian Invasion of Ukraine (2022)",
+                "Computers and the Internet",
+                "Politics and Government",
+                "Censorship",
+                "Social Media",
+                "Video Recordings, Downloads and Streaming"
+            ],
+            "org_facet": [
+                "YouTube.com"
+            ],
+            "per_facet": [
+                "Putin, Vladimir V"
+            ],
+            "geo_facet": [
+                "Russia",
+                "Ukraine"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The Kremlin in Moscow last month. Russians have been cut off from many Western internet services in a matter of days.",
+                    "copyright": "The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2022/03/08/business/07russia-internet-print/merlin_202882653_c35dee01-d68f-48a9-afe7-95cbc06ac425-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2022/03/08/business/07russia-internet-print/merlin_202882653_c35dee01-d68f-48a9-afe7-95cbc06ac425-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2022/03/08/business/07russia-internet-print/merlin_202882653_c35dee01-d68f-48a9-afe7-95cbc06ac425-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        }
+    ]
+}

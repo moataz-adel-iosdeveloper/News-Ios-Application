@@ -9,18 +9,21 @@ import Foundation
 import Moya
 import UIKit
 
-struct ArticlesNetwrok {
+protocol ArticlesNetwrokProtocol {
+    func fetchPopularArticles(period: Int,completion: @escaping (Result<ArticlesResponse, Error>) -> () )
+}
+struct ArticlesNetwrok : ArticlesNetwrokProtocol{
     
     private let provider = MoyaProvider<ArticlesServices>()
 
-    func fetchPopularArticles<T: Decodable>(period: Int,responseClass: T.Type,completion: @escaping (Result<T, Error>) -> () ) {
+    func fetchPopularArticles(period: Int, completion: @escaping (Result<ArticlesResponse, Error>) -> ()) {
         self.provider.request(.popular(period: period)) { result in
           switch result {
           case .success(let response):
               switch response.statusCode {
               case 200:
                   do {
-                      let results = try JSONDecoder().decode(T.self, from: response.data)
+                      let results = try JSONDecoder().decode(ArticlesResponse.self, from: response.data)
                       completion(.success(results))
                   } catch let error {
                       completion(.failure(error))
