@@ -1,7 +1,8 @@
 
 # News Ios Project
 
-sample news Project developed in swift 5, used MVVM Architecture & MOYA as network layer (https://github.com/Moya/Moya)and Kingfisher for download image and cashing image (https://github.com/onevcat/Kingfisher). The App Fetch news list from the Newyork Times Api portal(https://api.nytimes.com) with a detail screen for each news.
+sample news Project developed in swift 5, used MVVM Architecture & MOYA as network layer (https://github.com/Moya/Moya)
+and Kingfisher for download image and cashing image (https://github.com/onevcat/Kingfisher). The App Fetch news list from the Newyork Times Api portal(https://api.nytimes.com) with a detail screen for each news.
 
 # Project Overview
 
