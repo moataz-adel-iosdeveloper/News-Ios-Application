@@ -25,13 +25,13 @@ and Kingfisher for download image and cashing image (https://github.com/onevcat/
  you need to sign up for an API key at: https://developer.nytimes.com/get-started, 
 * choose your simulator and run it 
 # how to generated the code coverage reports .
-* from top selected NewsApplicationTests scheme 
-* from top selected edit scheme 
-* from left navigatite to test section 
-* from top screen selecte options
-* select check box Gather coverage for 
-* select from drop dwon list (some targets) then select NewsApplication
-* for more details ()
+* from top selected NewsApplicationTests scheme
+* from top selected edit scheme
+* from left navigate to test section
+* from top screen select options
+* select check box Gather coverage for
+* select from drop-down list (some targets) then select NewsApplication
+* for more details (https://stackoverflow.com/questions/47157041/how-to-display-xcode-code-coverage-when-its-not-displaying)
 
 
 
