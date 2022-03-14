@@ -17,6 +17,12 @@ and Kingfisher for download image and cashing image (https://github.com/onevcat/
 * from terminal navigate to project location by using cd (project folder location in your machine)
 * run comment (pod install)
 * open file (NewsApplication.xcworkspace) 
+* you have to add two scheme for NewsApplication and NewsApplicationTests 
+* choose scheme you need to run
+  # change Api key
+ from Constants -> URLs -> DomainUrl.swift . change appKey with your key
+  # how to generate new key ?
+ you need to sign up for an API key at: https://developer.nytimes.com/get-started, 
 * choose your simulator and run it 
 
 
