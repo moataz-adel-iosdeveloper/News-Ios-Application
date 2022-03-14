@@ -13,12 +13,13 @@ and Kingfisher for download image and cashing image (https://github.com/onevcat/
 
 # What to use ?
 
-* Download project 
+* Download project
 * from terminal navigate to project location by using cd (project folder location in your machine)
-* run comment (pod install)
-* open file (NewsApplication.xcworkspace) 
-* you have to add two scheme for NewsApplication and NewsApplicationTests 
-* choose scheme you need to run
+* Run comment (pod install)
+* open file (NewsApplication.xcworkspace)
+* You have to add two schemes for NewsApplication and NewsApplicationTests.
+* Choose the scheme you need to run
+
 # change Api key
  from Constants -> URLs -> DomainUrl.swift . change appKey with your key
 # how to generate new key ?
